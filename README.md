@@ -2,7 +2,7 @@
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<h2 style="color: blue; border-left: 5px solid blue;">Mehandi4MyBride</h2>
+<h2 class="bordered-heading">Mehandi4MyBride</h2>
 
 Mehandi4MyBride is a web application that offers high-quality mehndi services for brides. Our platform provides an easy and convenient way to order mehndi services for your wedding day. We offer a variety of mehndi designs and styles to choose from, all executed by experienced and talented mehndi artists.
 
