@@ -1,4 +1,3 @@
-<!doctype html>
 <head>
   <title>Readme for Mehandi4MyBride </title>
   <link rel="stylesheet" type="text/css" href="style.css">
