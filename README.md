@@ -21,5 +21,3 @@ We welcome contributions from the community! If you're interested in contributin
 ## Contact Us
 
 If you have any questions or comments about Mehandi4MyBride, please don't hesitate to contact us using the information on site or <a href="mailto:chetan.raut2009@gmail.com?subject=Mehandi4MyBride">Send Email</a>.
-
-</body>
