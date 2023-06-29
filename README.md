@@ -1,2 +1,31 @@
-# Mehandi4MyBride
-Mehandi4MyBride is a website that offers high-quality mehndi services for brides. Our platform provides an easy and convenient way to order mehndi services for your wedding day. We offer a variety of mehndi designs and styles to choose from, all executed by experienced and talented mehndi artists.
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<h2 style="color: blue; border-left: 5px solid blue;">Mehandi4MyBride</h2>
+
+Mehandi4MyBride is a web application that offers high-quality mehndi services for brides. Our platform provides an easy and convenient way to order mehndi services for your wedding day. We offer a variety of mehndi designs and styles to choose from, all executed by experienced and talented mehndi artists.
+
+## Features
+
+- Easy and convenient ordering process
+- A curated collection of mehndi designs and styles
+- Experienced and talented mehndi artists
+- Competitive pricing
+
+## Getting Started
+
+To get started with Mehandi4MyBride, simply visit our website and fill out our 
+necessary details. Our team will get back to you with more information on our services and pricing.
+
+## Contributing
+
+We welcome contributions from the community! If you're interested in contributing to Mehandi4MyBride, please contact us using the information on our website.
+
+## License
+
+Mehandi4MyBride is licensed under the MIT License. See the `LICENSE` file for more information.
+
+## Contact Us
+
+If you have any questions or comments about Mehandi4MyBride, please don't hesitate to contact us using the information on site or <a href="mailto:chetan.raut2009@gmail.com?subject=Subject Line">Send Email</a>.
