@@ -22,10 +22,6 @@ necessary details. Our team will get back to you with more information on our se
 
 We welcome contributions from the community! If you're interested in contributing to Mehandi4MyBride, please contact us using the information on our website.
 
-## License
-
-Mehandi4MyBride is licensed under the MIT License. See the `LICENSE` file for more information.
-
 ## Contact Us
 
-If you have any questions or comments about Mehandi4MyBride, please don't hesitate to contact us using the information on site or <a href="mailto:chetan.raut2009@gmail.com?subject=Subject Line">Send Email</a>.
+If you have any questions or comments about Mehandi4MyBride, please don't hesitate to contact us using the information on site or <a href="mailto:chetan.raut2009@gmail.com?subject=Mehandi4MyBride">Send Email</a>.
