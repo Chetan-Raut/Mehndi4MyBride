@@ -22,4 +22,4 @@ We welcome contributions from the community! If you're interested in contributin
 
 If you have any questions or comments about Mehndi4MyBride, please don't hesitate to contact us using the information on site or <a href="mailto:chetan.raut2009@gmail.com?subject=Mehndi4MyBride">Send Email</a>.
 
-<p align="center"> <a href="https://github.com/Chetan-Raut"><img src="https://img.shields.io/badge/Made with ❤!-pink" alt="love"/> </a> </p>
+<a href="https://github.com/Chetan-Raut"><img src="https://img.shields.io/badge/Made with ❤!-pink" alt="love"/></a>
