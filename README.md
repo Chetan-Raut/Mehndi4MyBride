@@ -1,6 +1,6 @@
 <h2>Mehndi4MyBride</h2>
 
-<a href="https://github.com/Chetan-Raut"><img src="https://img.shields.io/badge/shields.io-rocks!-orange alt="love"/> </a>
+<a href="https://github.com/Chetan-Raut"><img src="https://img.shields.io/badge/shields.io-rocks!-orange" alt="love"/> </a>
  
  Mehndi4MyBride is a web application that offers high-quality mehndi services for brides. Our platform provides an easy and convenient way to order mehndi services for your wedding day. We offer a variety of mehndi designs and styles to choose from, all executed by experienced and talented mehndi artists.
 
