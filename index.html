@@ -30,66 +30,86 @@
 </head> 
  
  <body> 
-    <header> 
-     <h1>Mehndi4MyBride!</h1> 
-   <nav> 
-    <ul> 
-     <li><a href="#about">About</a></li> 
-     <li><a href="#Designs">Designs</a></li> 
-     <li><a href="#contact">Contact</a></li> 
-    </ul> 
-  </nav> 
- </header> 
+   <header>
+    <h1>Mehndi4MyBride!</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#Designs">Designs</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-  <section id="about"> 
-   <h2>About</h2> 
-   <p>Welcome to our Mehndi4MyBride site, where you'll find a wide variety of beautiful mehndi designs for any occasion. Our team of skilled artists and designers are passionate about the art of mehndi and are committed to providing you with the highest quality designs. From traditional to modern, we have a design to suit every style. Thank you for choosing our website for all your mehndi needs.</p> 
-  </section> 
- 
-<section id="Designs">
-   <h2>Designs</h2>
-   <div class="Design">
-      <h3>Traditional Mehndi Design</h3>
-      <p>This intricate design features traditional motifs and patterns, including paisleys, flowers, and leaves. Perfect for weddings or other special occasions.</p>
-      <img src="https://i.imgur.com/vzseL7n.jpg" alt="Traditional Mehndi Design">
-   </div>
-   <div class="Design">
-      <h3>Modern Mehndi Design</h3>
-      <p>This design incorporates modern elements, such as geometric shapes and lines, with traditional motifs to create a unique, contemporary look.</p>
-      <img src="https://i.imgur.com/8PZmwuA.jpg" alt="Modern Mehndi Design">
-   </div>
-</section>
-<!-- Additional designs -->
-  <section id="additionalContent" style="display: none;"> 
-   <h2>More Designs</h2> 
-  <div class="Design">
-      <h3>Modern Mehndi Design</h3>
-      <p>This design incorporates modern elements, such as geometric shapes and lines, with traditional motifs to create a unique, contemporary look.</p>
-      <img src="https://i.imgur.com/FfBdmXr.jpg" alt="Modern Mehndi Design">
-   </div>
-   
+  <section class="about">
+    <h2>About</h2>
+    <p>Welcome to our Mehndi4MyBride site, where you'll find a wide variety of beautiful mehndi designs for any occasion. Our team of skilled artists and designers are passionate about the art of mehndi and are committed to providing you with the highest quality designs. From traditional to modern, we have a design to suit every style. Thank you for choosing our website for all your mehndi needs.</p>
   </section>
 
-   <button id="toggleButton">Toggle Additional Content</button> 
-   <!-- contact -->
-  <section id="contact"> 
-   <h2>Contact</h2> 
-      <form action="https://formspree.io/f/moqoakne" method="POST">
-       <label for="name">Name<span style="color:red;"> *</span></label> 
-    <input type="text" id="name" name="name" required> 
-       <label for="email">Email<span style="color:red;"> *</span></label> 
-    <input type="email" id="email" name="email" required> 
-       <label for="message">Message<span style="color:red;"> *</span></label> 
-          <textarea id="message" name="message" required>             
-          </textarea> 
-    <input type="submit" value="Send"> 
-     </form> 
-   </section> 
+   <section id="Designs">
+  <h2>Designs</h2>
+  <div class="designs-container">
+    <div class="design-item">
+      <h4>Henna Normal Dark</h3>
+      <img src="src/Beautiful-Bride-Showing-Henna.png" alt="Design 1">
+      <p>Embrace the timeless elegance of dark henna, a classic adornment that exudes understated beauty and cultural significance. Experience the allure of this traditional art form.</p>
+    </div>
+    <div class="design-item">
+      <h4>Complex Reddish Mehendi</h3>
+      <img src="src/Beautiful-Bride-Showing-Henna2.png" alt="Design 2">
+      <p>Step into the world of intricate reddish mehendi, where vibrant hues and complex patterns intertwine to create a visually captivating narrative, celebrating cultural richness and artistry.</p>
+    </div>
+    <div class="design-item">
+      <h4>Simple yet Elegant Mehendi</h3>
+      <img src="src/Beautiful-Bride-Showing-Henna3.png" alt="Design 3">
+      <p>Discover the subtle charm of elegant, simple mehendi, where beauty lies in its unassuming simplicity. This style offers a delicate, graceful touch perfect for any occasion.</p>
+    </div>
+    <!-- Add more design items as needed -->
+  </div>
+</section>
+
+    <!-- Services section -->
+    <section id="services">
+      <h2>Our Services</h2>
+      <div class="services-container">
+        <div class="service-item">
+          <h3>Service 1</h3>
+          <p>Description about Service 1</p>
+        </div>
+        <div class="service-item">
+          <h3>Service 2</h3>
+          <p>Description about Service 2</p>
+        </div>
+        <!-- Add more service items as needed -->
+      </div>
+    </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <form action="https://formspree.io/f/moqoakne" method="POST">
+      <!-- Form inputs for name, email, and message -->
+      <input type="text" id="name" name="name" required placeholder="Name">
+      <input type="email" id="email" name="email" required placeholder="Email">
+      <textarea id="message" name="message" rows="10" cols="10" required placeholder="Your message"></textarea>
+      <input type="submit" value="Send">
+    </form>
+ <br>   
+     <h2>Connect with us</h2>      
+ <div id="social" class="social-container">
+  <a href="https://www.fb.com"><i class="fa-brands fa-facebook fa-lg"></i></a>
+  <a href="https://www.instagram.com"><i class="fa-brands fa-instagram fa-lg"></i></a>
+  <a href="https://wa.me/9529053729"><i class="fa-brands fa-whatsapp fa-lg"></i></a>
+  <a href="https://www.pinterest.com"><i class="fa-brands fa-pinterest fa-lg"></i></a>
+  <a href="https://www.twitter.com"><i class="fa-brands fa-twitter fa-lg"></i></a>
+</div>
+
+  </section>  
    
  <footer> 
-   <p>&copy; 2023 Mehndi4MyBride. All rights reserved.
+   <p>&copy;2023 Mehndi4MyBride. All rights reserved.
    </p> 
-  </footer> 
+  </footer>
   <script src="jQuery.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script> 
  </body>
